@@ -11,10 +11,17 @@ Scrum is a lightweight framework designed to help small, close-knit teams of peo
 * Scrum Master
 * Team Members
 
+
+![Alt text](/Slide63.png?raw=true "Distinct Roles")
+
+
 # Scrum Master
 Those who are new to agile assume that the scrum master and the Project Manager are the same roles. This is absolutely not the case. The two roles are very different.
 
 A scrum master is the facilitator for a product development team that uses scrum 
+
+
+![Alt text](/scrum-master.png?raw=true "Scrum master")
 
 The scrum master does not manages the team that produce the work, instead he supports the product owner, Coaches the team and make sure that the scrum processes are adhered to. He is responsible for Scrum Process, its Implementation, and maximization of the processes benefits.
 
@@ -25,6 +32,9 @@ The Scrum Master is there to help, to provide a consultancy role and to look at 
 Before starting to work as a Scrum master, we went through all the roles that a scrum master should be responsible for provided by ScrumMaster Manifesto.
 
 We identified few roles and step by step started to take charge for those roles.
+
+![Alt text](/51b14f67-29e4-43c7-b46e-eb678237f9eb.jpg?raw=true "Roles -scrum master")
+
 
 We started off with some basic roles and responsibilities a scrum master should follow.
 
@@ -55,6 +65,9 @@ Facilitating Team and product owners in pre-iterations and Iteration meeting.
 Working with team about what went wrong and why, in previous Iteration and suggesting steps to improve upon them in Retrospection.
 
 Scrum master helps the team during Iteration to maintain their Scrum tools like Story Board, daily stand-ups, reminding team about their arrangements and commitments and helping team for resolving all issues hampering the team pace and development time, like test server, staging server, deployer issues and also mediating the general conflicts between development Team and product owners.
+
+![Alt text](/agile-board.png?raw=true "Agile Board")
+
 
 Agile Board to help scrum team and scrum master to manage the sprint
 
